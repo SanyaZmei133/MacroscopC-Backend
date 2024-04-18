@@ -55,11 +55,7 @@ namespace Server
                     }
 
                 }
-                //Console.Write("Enter request: ");
-                //string req = Console.ReadLine();
-
-                //byte[] buffer = Encoding.Default.GetBytes(req);
-                //_clientSocket.Send(buffer);
+               
             }
             
         }
